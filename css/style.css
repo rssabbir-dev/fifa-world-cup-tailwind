@@ -1,0 +1,16 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+section,aside{
+    margin:50px auto;
+}
+.banner {
+    background: linear-gradient(90deg, rgba(2, 0, 36, 1) 25%, rgba(9, 9, 121, 1) 70%);
+}
+button{
+    transition: all 0.3s;
+}
+/* aside{
+    min-width: 300px;
+    max-width: 300px;
+} */
